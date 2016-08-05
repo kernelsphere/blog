@@ -3,7 +3,6 @@
 	// INITIALIZE PAGE
 	// ---------------
 	// Adding my own comment
-	// Adding my own comment
         //$page = "index";
 	require_once('scripts/sb_functions.php');
 	
